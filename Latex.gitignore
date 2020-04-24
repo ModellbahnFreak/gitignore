@@ -1,0 +1,8 @@
+#LaTex Compile Files to be ignored
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.pdf
